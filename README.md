@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Ravi Kumar
 **A passionate Data Analyst || Learning Machine Learning  || Python, MYSQL, Power BI, Excel**
 
-Email Me 👉 ✉️ **ravikeer10@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **keerravi10@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Machine Learning Projects At Beginner Level
 - 🌱 **I’m currently learning:** Machine Learning
