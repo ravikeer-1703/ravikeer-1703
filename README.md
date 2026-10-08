@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ **keerravi10@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Machine Learning Projects At Beginner Level
-- 🌱 **I’m currently learning:** Machine Learning
+- 🔭 **I’m currently working on:** Machine Learning Projects, GenAI and RAG
+- 🌱 **I’m currently learning:** GenAI and RAG
 - 👯 **I’m looking to collaborate on:** Not Now
 - 🤔 **I’m looking for help with:** Machine Learning Resources
 - 💬 **Ask me about:** Collaboration
